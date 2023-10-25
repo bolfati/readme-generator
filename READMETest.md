@@ -2,7 +2,7 @@
     
 ## Description:
 
--This code allows us to use Node to quickly make a README using prompts
+-This code allows us to use Node to generate a professional README efficiently
 
 ## Table of Contents:
 
@@ -16,7 +16,7 @@
 
 ## Installation:
 
-Simply type in node index.js to begin writing your README
+Simply type in node index.js to begin writing your professional README!
 
 ## Usage:
 
@@ -41,3 +41,7 @@ Contact Information
 Github Link: https://github.com/github.com/bolfati
 
 Email: [bijan.olfati@gmail.com](bijan.olfati@gmail.com)
+ 
+ 
+ 
+ 
